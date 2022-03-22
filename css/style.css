@@ -1,0 +1,188 @@
+.container{
+  column-gap: 100px;
+
+    align-items: center;
+    width: 1150px;
+   
+background-color: blanchedalmond;
+height: 300px;
+width: 300px;
+text-align: left;
+display: grid;
+grid-template-columns: auto auto auto ;
+align-items: center;
+}
+.out-side{
+ margin-top: 40px;
+align-items: center;
+
+
+}
+
+.reset{
+    margin-left: 20px;
+background-color: gainsboro;
+border: 1px solid black;
+cursor: pointer;
+}
+.submit{
+    background-color: gainsboro;
+    border: 1px solid black;
+    cursor: pointer;
+}
+.html-form{
+    padding: 40px;
+ 
+}
+.input{
+  margin-top: 20px;
+}
+.title{
+    margin-top: 30px;
+    align-items: center;
+}
+.email{
+    padding: 10px;
+    border: 1px solid orange;
+}
+.checkbox{
+    padding: 10px;
+    border: 1px solid orange;
+}
+
+.tags{
+    background-color: cadetblue;
+}
+.radio{
+    cursor: pointer;
+}
+.color{
+    cursor: pointer;
+  
+}
+
+.example{
+    padding: 20px;
+}
+.range1{
+    margin-top: 30px;
+ 
+}
+.range{
+    cursor: pointer;
+}
+.border{
+  column-gap: 200px;
+    
+    align-items: center;
+    margin-top: 20px;
+    background-color: coral;
+    border-radius: 20px;
+    text-align: center;
+}
+form{
+    padding: 30px;
+  
+}
+.out-side2{
+    margin-top: 30px;
+ 
+}
+.search1{
+  
+    margin-top: 40px;
+    background-color: darkorange;
+ height: 400px;
+    width: 300px;
+    border-radius: 55px;
+}
+.search2{
+
+    padding: 30px;
+    margin-top: 30px;
+  
+   
+    
+    color: white;
+   
+}
+.week{
+padding: 10px;
+border: 2px solid olive;
+background-color: wheat;
+}
+.search{
+    padding: 10px;
+border: 2px solid olive;
+background-color: wheat;
+}
+.time{
+    padding: 10px;
+    border: 2px solid olive;
+    background-color: wheat;
+}
+.text{
+    padding: 10px;
+    border: 2px solid olive; 
+    background-color: wheat;
+}
+.tel{
+    border: 2px solid olive;  
+    border-radius: 20px;
+  background-color: darkgrey;
+height:20px;
+width: 90px;
+}
+.submit{
+    border: 2px solid olive;  
+    background-color: darkgrey; 
+}
+.img{
+    margin-top: 30px;
+    text-align: center;
+    cursor: pointer;
+    color: wheat;
+}
+.button{
+  background-color: darkgrey;
+
+h
+}
+.file{
+    padding: 30px;
+    color: wheat;
+}
+.fil{
+    padding: 10px;
+    color: wheat;
+}
+.buttono{
+    padding: 10px;
+    color: wheat;
+}
+.hidden{
+    padding: 10px;
+    color: wheat;
+}
+.number{
+    background-color: darksalmon;
+    padding: 20px;
+    color: bisque;
+}
+.url{
+    padding: 10px;
+    border: 2px solid hsla(199, 100%, 50%, 0.959);
+  background-color: cornsilk;
+}
+.num{
+    padding: 10px;
+    border: 2px solid hsla(199, 100%, 50%, 0.959);
+  background-color: cornsilk;
+}
+.local{
+    padding: 10px;
+    border: 2px solid hsla(199, 100%, 50%, 0.959);
+  background-color: cornsilk;
+
+}
+
